@@ -7,8 +7,8 @@ function App({ Component, pageProps }: AppProps) {
   return (
     <>
       <Head>
-        <title>AKQA coding test</title>
-        <meta name="description" content="AKQA coding test" />
+        <title>coding test</title>
+        <meta name="description" content="coding test" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <GlobalStyle />

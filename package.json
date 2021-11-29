@@ -1,5 +1,5 @@
 {
-  "name": "akqa",
+  "name": "coding_challenge",
   "private": true,
   "scripts": {
     "dev": "next dev",

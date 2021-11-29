@@ -7,8 +7,8 @@ const Page: NextPage = () => {
   return (
     <>
       <Head>
-        <title>AKQA coding test checkout</title>
-        <meta name="description" content="AKQA coding test checkout page" />
+        <title>coding test checkout</title>
+        <meta name="description" content="coding test checkout page" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <AppProvider>
